@@ -1,5 +1,5 @@
 # ***Dot Product***
-'''
+\'''
    #include<iostream>
    #include<vector>
    using namespace std;
@@ -19,14 +19,14 @@
        double result = dotProduct(A, B);
        cout<<result<<endl;
    }
-'''
+\'''
 >Methametical Expression
 $$ \mathbf{A} \cdot \mathbf{B} = \sum_{i=1}^{n} A_i B_i $$
 
 ### Link
 [Google](https://www.google.co.in)
 
-###Lists
+### Lists
 1. AT 90 degree dot product is 0
 2. At 0 degree dot product is maximum
 3. At 180 degree dot product is minimum
@@ -35,13 +35,10 @@ $$ \mathbf{A} \cdot \mathbf{B} = \sum_{i=1}^{n} A_i B_i $$
 > Magnitute of vectors is always positive
 
 ### Table of time complexity
-|----------------------|-----------------|------------------|
 |        Version       | Time Complexity | Space Complexity |
 |----------------------|-----------------|------------------|
 |      Basic loop      |       O(n)      |       O(1)       |
-|----------------------|-----------------|------------------|
 | Parallel Computation |     O(log n)    |       O(1)       |
-|----------------------|-----------------|------------------|
 
 ### Image
 ![Oops Image is not there](Img.jpeg)
