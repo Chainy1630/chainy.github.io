@@ -1,5 +1,5 @@
 # ***Dot Product***
-\'''
+\```
    #include<iostream>
    #include<vector>
    using namespace std;
@@ -19,7 +19,7 @@
        double result = dotProduct(A, B);
        cout<<result<<endl;
    }
-\'''
+\```
 >Methametical Expression
 $$ \mathbf{A} \cdot \mathbf{B} = \sum_{i=1}^{n} A_i B_i $$
 
@@ -43,4 +43,4 @@ $$ \mathbf{A} \cdot \mathbf{B} = \sum_{i=1}^{n} A_i B_i $$
 ### Image
 ![Oops Image is not there](Img.jpeg)
 ### Footnotes
-[^1] This all about vector dot product
+[^1]: This all about vector dot product
