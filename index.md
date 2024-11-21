@@ -24,4 +24,4 @@ Love to listen music
 | Class 10|   96%      |
 
 ## Challenges help us to be strong
-![Oops No Image was There](em.jpeg)
+![Oops No Image was There](Img.jpeg)
